@@ -17,8 +17,8 @@ This project is a machine learning web application that predicts whether a movie
 * `app.py`: Streamlit web interface.
 * `preprocessing.py`: Custom text cleaning logic.
 * `sentiment_analysis.ipynb`: Model training and evaluation.
-* `model.pkl`: Trained Logistic Regression model.
-* `tfidf.pkl`: Fitted TF-IDF vectorizer.
+* `sentiment_model.pkl`: Trained Logistic Regression model.
+* `tfidf_vectorizer.pkl`: Fitted TF-IDF vectorizer.
 
 ## Output
 
