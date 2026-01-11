@@ -21,3 +21,7 @@ This project is a machine learning web application that predicts whether a movie
 * `tfidf.pkl`: Fitted TF-IDF vectorizer.
 
 ## Output
+
+<img width="1366" height="731" alt="positive" src="https://github.com/user-attachments/assets/a4062614-156a-4945-b5e9-8ef0b0e6245e" />
+
+<img width="1366" height="729" alt="negative" src="https://github.com/user-attachments/assets/a2629c0f-5885-43de-9137-456f70804930" />
